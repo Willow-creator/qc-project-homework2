@@ -84,6 +84,6 @@ func GetWeather(city string) {
 
 func main() {
 
-	GetWeather("龙泉驿")
+	GetWeather("成都")
 
 }
